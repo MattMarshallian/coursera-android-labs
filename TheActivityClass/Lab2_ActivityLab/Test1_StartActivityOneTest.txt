@@ -2,3 +2,6 @@ onCreate() calls: 1
 onStart() calls: 1
 onResume() calls: 1
 onRestart() calls: 0
+
+CAN.7421.929638.2016.1.A
+KTLHYSMK81
